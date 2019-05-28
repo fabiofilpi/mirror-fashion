@@ -1,12 +1,13 @@
 # Don't track content of these folders
-.idea/
 
 
 # Compiled source #
 ###################
 
-
-
+# idea files
+.idea/workspace.xml
+.idea/usage.statistics.xml
+.idea/tasks.xml
 
 # Packages #
 ############
